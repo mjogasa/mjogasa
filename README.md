@@ -44,6 +44,19 @@ I have experience using **Excel and Power BI as a BI tool**, applying data clean
 
 ---
 
+### 📌 SAP GUI Scripting + Excel Automation
+**Automated operational reporting and KPI refresh**
+
+- Automated extraction of production, scrap, and capacity data from SAP  
+- Excel automation using SAP GUI Scripting and VBA  
+- Power Query and Power Pivot refresh with a single click  
+- Reduced manual effort and improved data reliability  
+
+🔗 Repository:  
+👉 `sap-gui-scripting-excel-automation`
+
+---
+
 ## 🚀 Currently Learning
 - Python for data cleaning and automation
 - Data modeling best practices
