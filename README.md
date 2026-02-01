@@ -11,6 +11,7 @@ I have experience using **Excel and Power BI as a BI tool**, applying data clean
 - Design KPIs related to productivity, quality, cost, and efficiency
 - Build executive dashboards using **Excel and Power BI**
 - Develop data models and measures using **Power Pivot (DAX)** and **Power BI**
+- Automate data extraction and reporting using **SAP GUI Scripting with Excel**
 - Support continuous improvement initiatives through data analysis
 
 
@@ -21,6 +22,7 @@ I have experience using **Excel and Power BI as a BI tool**, applying data clean
 - **Power BI (Data Modeling & Visualization)**
 - **Power Query (ETL)**
 - **Power Pivot (DAX & Data Modeling)**
+- **SAP GUI Scripting (Excel Automation)**
 - **SQL (Advanced – analytical queries, joins, CTEs, window functions)**
 - **Python (Foundations for Data Analysis)**
 - Data Visualization & KPI Design
