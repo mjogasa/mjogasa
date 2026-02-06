@@ -32,6 +32,20 @@ I have experience using **Excel and Power BI as a BI tool**, applying data clean
 
 ## 📊 Featured Projects
 
+### 📌 Global Sales Performance Dashboard
+Executive sales analytics project built on a **Sales Data Warehouse** using **SQL and Power BI**.
+
+- End-to-end data pipeline: raw data → cleaning → star schema → BI
+- Data quality handling with NULLs, duplicates, and UNKNOWN dimensions
+- Dimensional modeling (Fact & Dimensions) in MySQL
+- SQL-based validation of metrics and record consistency
+- Interactive Power BI dashboard with Sales Report and Top N Products analysis
+
+🔗 Repository:
+👉 global_sales_data_warehouse
+
+---
+
 ### 📌 Manufacturing Performance Dashboard
 **Executive manufacturing dashboard built in Excel**
 
