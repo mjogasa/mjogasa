@@ -1,40 +1,50 @@
 # 👋 Hi, I'm Marcos
 
-I'm a **Data Analyst** with a strong background in **manufacturing and operations**, focused on transforming data into actionable insights to support **data-driven decision making**.
+I’m a **Data Analyst with a strong background in manufacturing and operations**, specialized in transforming operational data into actionable insights that drive performance, efficiency, and strategic decision-making.
 
-I have experience using **Excel and Power BI as a BI tool**, applying data cleaning, modeling, KPI design, and dashboard storytelling to solve real business problems.
+With hands-on experience in BI, automation, and data modeling, I bridge the gap between business operations and analytics — delivering structured, KPI-driven solutions that improve visibility and support continuous improvement.
 
 ---
 
 ## 🔍 What I Do
-- Analyze operational and manufacturing data
-- Design KPIs related to productivity, quality, cost, and efficiency
+- Analyze operational and manufacturing data to uncover performance drivers
+- Design KPIs related to productivity, quality, cost, and capacity
 - Build executive dashboards using **Excel and Power BI**
 - Develop data models and measures using **Power Pivot (DAX)** and **Power BI**
-- Automate data extraction and reporting using **SAP GUI Scripting with Excel**
+- Write advanced SQL queries for analytical reporting and validation
+- Automate SAP data extraction using **SAP GUI Scripting with Excel (VBA)**
 - Support continuous improvement initiatives through data analysis
 
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Excel (Advanced)**
-- **Power BI (Data Modeling & Visualization)**
-- **Power Query (ETL)**
-- **Power Pivot (DAX & Data Modeling)**
-- **SAP GUI Scripting (Excel Automation)**
-- **SQL (Advanced – analytical queries, joins, CTEs, window functions)**
-- **Python (Foundations for Data Analysis)**
+# Analytics & BI
+- Excel (Advanced)
+- Power BI (Data Modeling & Visualization)
+- Power Query (ETL)
+- Power Pivot (DAX & Data Modeling)
 - Data Visualization & KPI Design
+
+# Data Engineering & Automation
+- SQL (Advanced – joins, CTEs, window functions, analytical queries)
+- Python (Data analysis & automation foundations)
+- SAP GUI Scripting (Excel automation & reporting)
+
+# Business Focus
+- Manufacturing Analytics
+- Operational Performance
 - Data-Driven Decision Making
+- Continuous Improvement Support
 
 ---
 
 ## 📊 Featured Projects
 
 ### 📌 Global Sales Performance Dashboard
-Executive sales analytics project built on a **Sales Data Warehouse** using **SQL and Power BI**.
+Executive sales analytics project built on a Sales Data Warehouse using SQL and Power BI.
 
+**Highlights:**
 - End-to-end data pipeline: raw data → cleaning → star schema → BI
 - Data quality handling with NULLs, duplicates, and UNKNOWN dimensions
 - Dimensional modeling (Fact & Dimensions) in MySQL
@@ -47,11 +57,12 @@ Executive sales analytics project built on a **Sales Data Warehouse** using **SQ
 ---
 
 ### 📌 Manufacturing Performance Dashboard
-**Executive manufacturing dashboard built in Excel**
+Executive manufacturing dashboard built in Excel
 
+**Highlights:**
 - Productivity, Scrap Rate, Cost per Unit, and Capacity analysis  
 - Data cleaning and modeling using Power Query and Power Pivot  
-- KPI-driven, decision-oriented dashboard design  
+- KPI-driven dashboard focused on operational decision-making  
 
 🔗 Repository:  
 👉 `manufacturing-performance-dashboard`
@@ -59,11 +70,12 @@ Executive sales analytics project built on a **Sales Data Warehouse** using **SQ
 ---
 
 ### 📌 SAP GUI Scripting + Excel Automation
-**Automated operational reporting and KPI refresh**
+Operational reporting automation using SAP and Excel.
 
+**Highlights:**
 - Automated extraction of production, scrap, and capacity data from SAP  
 - Excel automation using SAP GUI Scripting and VBA  
-- Power Query and Power Pivot refresh with a single click  
+- Power Query and Power Pivot refresh 
 - Reduced manual effort and improved data reliability  
 
 🔗 Repository:  
@@ -71,10 +83,25 @@ Executive sales analytics project built on a **Sales Data Warehouse** using **SQ
 
 ---
 
+## 🚚 Advanced Analytics Project
+
+### 📌 Vehicle Routing Problem (VRP) – Capacity-Constrained Analysis
+Heuristic-based routing solution built in Python to simulate real-world logistics decision-making.
+- Route construction using Nearest Neighbor heuristic
+- Route construction using Nearest Neighbor heuristic
+- Vehicle balance analysis using coefficient of variation (CV)
+- Export pipeline + Power BI visualization
+
+🔗 Repository:  
+👉 `vehicle-routing-problem-route-balancing`
+
+---
+
 ## 🚀 Currently Learning
-- Python for data cleaning and automation
+- Python for advanced data analysis and automation
 - Data modeling best practices
 - BI performance optimization
+- Applied operations research techniques
 
 ---
 
